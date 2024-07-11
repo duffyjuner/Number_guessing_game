@@ -10,7 +10,7 @@ number = random.randint(1, 9)
 # to the user to guess the number
 # or it is the inputs given by user
 # into input box here number of
-# chances are 5
+# chances are 5.
 chances = 0
 
 print("Guess a number (between 1 and 9):")
